@@ -1,5 +1,6 @@
 /* Update to Greg Viot's fuzzy system -- DDJ, February 1993, page 94 */
 /* By J. Tucker, P. Fraley, and L. Swanson, April 1993 */
+/* By Hoa Nguyen, University of Nebraska Lincoln, July 2017 */
 /* This program has been tested 2 inputs, 1 output, 2 antecdents ANDed together and 1 consequence
    For OR, NOT antecedents and consequences refer to
    https://www.mathworks.com/help/fuzzy/foundations-of-fuzzy-logic.html#bp78l70-2
