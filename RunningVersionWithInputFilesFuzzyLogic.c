@@ -51,7 +51,7 @@ void put_system_outputs();
 void get_system_inputs(int input1,int input2);
 int main(){
   initialize_system();                  /* Read input files, NEW */
-  get_system_inputs(60,125);     /* Get & put argv NEW */
+  get_system_inputs(60,125);            // provide input here
   fuzzification();
   rule_evaluation();
   defuzzification();
